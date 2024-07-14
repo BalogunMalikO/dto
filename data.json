@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nutrition"
+    },
+
+    {
+      "id":2,
+      "name" :"African Dish"
+    },
+    {
+      "id":3,
+      "name" :"Intercontinetal Dish"
+    },
+    {
+      "id":4,
+      "name" :"Native Dish"
+    },
+    {
+      "id":5,
+      "name" :"Health"
+    },
+
+    {
+      "id":6,
+      "name" :"Fitness"
+    },
+    {
+      "id": 7,
+      "name" :"Sports"
+    },
+    {
+      "id":8,
+      "name" :"Football"
+    },
+    {
+      "id":9,
+      "name" :"Basketball"
+    },
+    {
+      "id":10,
+      "name" :"Baseball"
+    },
+    {
+      "id":11,
+      "name" :"Rugby"
+    },
+    {
+      "id":12,
+      "name" :"Gamming"
+    },
+    {
+      "id":13,
+      "name" :"Art"
+    },
+    {
+      "id":14,
+      "name" :"Photography"
+    },
+    {
+      "id":15,
+      "name" :"Painting"
+    },
+    {
+      "id":16,
+      "name" :"Fashion"
+    },
+    {
+      "id":17,
+      "name" :"Adventure"
+    },
+    {
+      "id":18,
+      "name" :"Tourism"
+    },
+    {
+      "id":19,
+      "name" :"Hiking"
+    },
+    {
+      "id":20,
+      "name" :"History"
+    },
+    {
+      "id":21,
+      "name" :"Science"
+    },
+    {
+      "id":22,
+      "name" :"Astronomy"
+    },
+    {
+      "id":23,
+      "name" :"Biology"
+    },
+    {
+      "id":24,
+      "name" :"Physics"
+    },
+    {
+      "id":25,
+      "name" :"Chemistry"
+    },
+    {
+      "id":26,
+      "name" :"Mathematics"
+    },
+    {
+      "id":27,
+      "name" :"Physics"
+    },
+    {
+      "id":28,
+      "name" :"Technology"
+    },
+    {
+      "id":29,
+      "name" :"Engineering"
+    },
+    {
+      "id":30,
+      "name" :"Agriculture"
+    }
+  ]
+}
+
