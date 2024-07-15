@@ -1,10 +1,9 @@
-{
+    {
   "data": [
     {
       "id": 1,
       "name": "Nutrition"
     },
-
     {
       "id":2,
       "name" :"African Dish"
@@ -21,10 +20,13 @@
       "id":5,
       "name" :"Health"
     },
-
     {
       "id":6,
       "name" :"Fitness"
+    },
+    {
+      "id":1,
+      "name": "Mental Health"
     },
     {
       "id": 7,
@@ -51,77 +53,238 @@
       "name" :"Gamming"
     },
     {
-      "id":13,
-      "name" :"Art"
+      "id": 13,
+      "name":"FIFA"
     },
     {
-      "id":14,
-      "name" :"Photography"
+      "id": 14,
+      "name":"PES"
     },
     {
-      "id":15,
-      "name" :"Painting"
+      "id": 15,
+      "name":"Mortal Kombat"
     },
     {
-      "id":16,
-      "name" :"Fashion"
+      "id": 16,
+      "name":"Call OF Duty"
     },
     {
       "id":17,
-      "name" :"Adventure"
+      "name": "Board Games"
     },
     {
-      "id":18,
-      "name" :"Tourism"
+      "id": 18,
+      "name":"Swahilli"
     },
     {
       "id":19,
-      "name" :"Hiking"
+      "name" :"Art"
     },
     {
       "id":20,
-      "name" :"History"
+      "name" :"Photography"
     },
     {
       "id":21,
-      "name" :"Science"
+      "name" :"Painting"
     },
     {
       "id":22,
-      "name" :"Astronomy"
+      "name" :"Fashion"
     },
     {
       "id":23,
-      "name" :"Biology"
+      "name" :"Adventure"
     },
     {
       "id":24,
-      "name" :"Physics"
+      "name" :"Tourism"
     },
     {
       "id":25,
-      "name" :"Chemistry"
+      "name" :"Hiking"
     },
     {
       "id":26,
-      "name" :"Mathematics"
+      "name" :"History"
     },
     {
       "id":27,
-      "name" :"Physics"
+      "name" :"Science"
     },
     {
       "id":28,
-      "name" :"Technology"
+      "name" :"Astronomy"
     },
     {
       "id":29,
-      "name" :"Engineering"
+      "name" :"Biology"
     },
     {
       "id":30,
+      "name" :"Physics"
+    },
+    {
+      "id":31,
+      "name" :"Chemistry"
+    },
+    {
+      "id":32,
+      "name" :"Mathematics"
+    },
+    {
+      "id":33,
+      "name" :"Physics"
+    },
+    {
+      "id":34,
+      "name" :"Technology"
+    },
+    {
+      "id":35,
+      "name" :"Engineering"
+    },
+    {
+      "id":36,
       "name" :"Agriculture"
-    }
+    },
+    {
+      "id": 37,
+      "name":"Languages"
+    },
+    {
+      "id": 38,
+      "name":"Igbo"
+    },
+    {
+      "id": 39,
+      "name":"Yoruba"
+    },
+    {
+      "id": 40,
+      "name":"Swahilli"
+    },
+    {
+      "id": 41,
+      "name":"Public Speaking"
+    },
+    {
+      "id":42,
+      "name":"interpreting"
+    },
+    {
+      "id": 43,
+      "name":"Dance"
+    },
+    {
+      "id":44,
+      "name": "Finance"
+    },
+    {
+      "id":45,
+      "name": "Stocks"
+    },
+    {
+      "id":46,
+      "name": "Politcs"
+    },
+    {
+      "id":47,
+      "name": "Nature"
+    },
+    {
+      "id":48,
+      "name": "Animal"
+    },
+    {
+      "id":49,
+      "name": "Pet"
+    },
+    {
+      "id":50,
+      "name": "Cats"
+    },
+    {
+      "id":51,
+      "name": "Dog"
+    },
+    {
+      "id":52,
+      "name": "Entertainment"
+    },
+    {
+      "id":53,
+      "name": "Movies"
+    },
+    {
+      "id":54,
+      "name": "Anime"
+    },
+    {
+      "id":55,
+      "name": "Sci-fi"
+    },
+    {
+      "id":56,
+      "name": "TV shows"
+    },
+    {
+      "id":57,
+      "name": "Comedy"
+    },
+    {
+      "id":58,
+      "name": "Music"
+    },
+    {
+      "id":59,
+      "name": "Afrobeats"
+    },
+    {
+      "id":60,
+      "name": "Classic Music"
+    },
+    {
+      "id":61,
+      "name": "Hip-hop"
+    },
+    {
+      "id":62,
+      "name": "RnB Music"
+    },
+    {
+      "id":63,
+      "name": "Rap"
+    },
+    {
+      "id":64,
+      "name": "Books"
+    },
+    {
+      "id":65,
+      "name": "Motivtion"
+    },
+    {
+      "id":66,
+      "name": "Podcast"
+    },
+    {
+      "id":67,
+      "name": "Learning"
+    },
+    {
+      "id":69,
+      "name": "Tutoring"
+    },
+    {
+      "id":70,
+      "name": "Networking"
+    },
+    {
+      "id":71,
+      "name": "Meme"
+    } 
+
   ]
 }
 
